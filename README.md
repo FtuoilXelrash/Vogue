@@ -1,2 +1,2 @@
 # Vogue
-Vogue and Decal Utility Belt Hud
+Vogue a Decal Utility Belt Hud
